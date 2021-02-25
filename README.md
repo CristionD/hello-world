@@ -1,2 +1,5 @@
 # hello-world
-A beginner repository
+
+Greetings, stranger.
+
+I like cookies. 'Tis all.
